@@ -19,4 +19,4 @@
 </p>
 
 Currently exploring rendering systems and engines design in C++ 
-> Everything build on linux, with neovim and a bit of coffee
+> Everything built on linux, with neovim and a bit of coffee
