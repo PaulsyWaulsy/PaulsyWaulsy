@@ -14,8 +14,8 @@
 </p>
 
 <p align="left">
-  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=PaulsyWaulsy&show_icons=true&theme=nord&hide_border=true" />
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PaulsyWaulsy&layout=compact&theme=nord&hide_border=true" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=PaulsyWaulsy&show_icons=true&theme=nord&hide_border=true" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PaulsyWaulsy&layout=compact&theme=nord&hide_border=true" />
 </p>
 
 Currently exploring rendering systems and engines design in C++ 
